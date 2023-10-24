@@ -5,48 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7115ae66-0eb8-4a57-bcdc-29c6c92ffc51" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/AppTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../LeetCode/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../LeetCode/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../LeetCode/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../LeetCode/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../LeetCode/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../LeetCode/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../LeetCode/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TheoryOfFormalLanguages/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TheoryOfFormalLanguages/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TheoryOfFormalLanguages/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TheoryOfFormalLanguages/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TheoryOfFormalLanguages/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TheoryOfFormalLanguages/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TheoryOfFormalLanguages/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TheoryOfFormalLanguages/src/test/java/org/example/AppTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Computer Graphics/src/main/java/Lab7/Animation.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Computer Graphics/src/main/java/Lab7/Animation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Computer Graphics/src/main/java/Lab7/Camera.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Computer Graphics/src/main/java/Lab7/Camera.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Computer Graphics/src/main/java/Lab7/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Computer Graphics/src/main/java/Lab7/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Computer Graphics/src/main/java/Lab7/Model.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Computer Graphics/src/main/java/Lab7/Model.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Computer Graphics/src/main/java/Lab7/Texture.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Computer Graphics/src/main/java/Lab7/Texture.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Computer Graphics/src/main/java/Lab7/Window.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Computer Graphics/src/main/java/Lab7/Window.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DevelopingOfParallelAndDistributedProgramms/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../DevelopingOfParallelAndDistributedProgramms/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DevelopingOfParallelAndDistributedProgramms/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../DevelopingOfParallelAndDistributedProgramms/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DevelopingOfParallelAndDistributedProgramms/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../DevelopingOfParallelAndDistributedProgramms/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DevelopingOfParallelAndDistributedProgramms/src/main/java/Lab1/MatrixMultiplier.java" beforeDir="false" afterPath="$PROJECT_DIR$/../DevelopingOfParallelAndDistributedProgramms/src/main/java/Lab1/MatrixMultiplier.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DevelopingOfParallelAndDistributedProgramms/src/main/java/Lab__/WordCounter.java" beforeDir="false" afterPath="$PROJECT_DIR$/../DevelopingOfParallelAndDistributedProgramms/src/main/java/Lab__/WordCounter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DevelopingOfParallelAndDistributedProgramms/target/classes/Lab1/MatrixMultiplier$CalcThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/../DevelopingOfParallelAndDistributedProgramms/target/classes/Lab1/MatrixMultiplier$CalcThread.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DevelopingOfParallelAndDistributedProgramms/target/classes/Lab1/MatrixMultiplier.class" beforeDir="false" afterPath="$PROJECT_DIR$/../DevelopingOfParallelAndDistributedProgramms/target/classes/Lab1/MatrixMultiplier.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DevelopingOfParallelAndDistributedProgramms/target/classes/Lab__/WordCounter.class" beforeDir="false" afterPath="$PROJECT_DIR$/../DevelopingOfParallelAndDistributedProgramms/target/classes/Lab__/WordCounter.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Parser/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Parser/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Parser/src/main/java/org/example/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Parser/src/main/java/org/example/App.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PracticalTasksInJava/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../PracticalTasksInJava/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PracticalTasksInJava/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../PracticalTasksInJava/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/CertificateInfo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/CertificateInfo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/CertificateInfo$CalcThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/CertificateInfo$CalcThread.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/CertificateInfo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/CertificateInfo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/toResult.txt" beforeDir="false" afterPath="$PROJECT_DIR$/toResult.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,12 +22,13 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="HTML File" />
         <option value="Class" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -74,6 +41,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
@@ -97,9 +65,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="IPController" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="IPController" />
+      <module name="IPScanner" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ServerLoader" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ServerLoader" />
+      <module name="IPScanner" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="Application.CertificateInfo" />
+        <item itemvalue="Application.IPController" />
+        <item itemvalue="Application.ServerLoader" />
         <item itemvalue="Application.HostName" />
       </list>
     </recent_temporary>
