@@ -18,7 +18,7 @@ class CertificateInfoTest {
     }
     @Test
     void isAddressValidTest_FALSE() {
-        String str = "127.0f0.222.0/24";
+        String str = "127.000.222.0/2а";
         Assertions.assertFalse(CertificateInfo.isAddressValid(str));
     }
 }
