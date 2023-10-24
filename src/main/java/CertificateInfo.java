@@ -17,7 +17,7 @@ public class CertificateInfo extends Thread{
     public static final Path pathToCheck = Path.of(".\\toResult.txt");
 
     public static boolean isAddressValid(String address){
-        return address.matches("\\d+\\.\\d+\\.\\d+\\.\\d+/\\d+");
+        return address.matches("\\d{1,3}\\.\\d{1,3}\\.\\d{1,3}\\.\\d{1,2}/\\d{1,2}");
     }
 
 
