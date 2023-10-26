@@ -6,6 +6,12 @@
   <component name="ChangeListManager">
     <list default="true" id="7115ae66-0eb8-4a57-bcdc-29c6c92ffc51" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/CalcThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/CalcThread.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/CertificateInfo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/CertificateInfo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/CalcThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/CalcThread.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/CertificateInfo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/CertificateInfo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/classpath.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/toResult.txt" beforeDir="false" afterPath="$PROJECT_DIR$/toResult.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,9 +21,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="JUnit5 Test Class" />
         <option value="Class" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -54,7 +60,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.CertificateInfoTest">
+  <component name="RunManager" selected="Application.CertificateInfo">
     <configuration name="CertificateInfo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="CertificateInfo" />
       <module name="IPScanner" />
@@ -97,8 +103,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.CertificateInfoTest" />
         <item itemvalue="Application.CertificateInfo" />
+        <item itemvalue="JUnit.CertificateInfoTest" />
         <item itemvalue="JUnit.CertificateInfoTest.isAddressValidTest" />
         <item itemvalue="Application.IPController" />
         <item itemvalue="Application.ServerLoader" />

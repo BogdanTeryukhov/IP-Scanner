@@ -13,19 +13,24 @@ import java.nio.file.Path;
 import java.security.cert.Certificate;
 import java.security.cert.X509Certificate;
 import java.util.HashSet;
+import java.util.List;
 import java.util.Set;
 
 @Getter
 @Setter
 @AllArgsConstructor
 public class CalcThread extends Thread{
-    private String IP;
+    private List<String> IpList;
+    private int startIndex;
+    private int endIndex;
 
     @Override
     public void run() {
         try {
-            InetAddress inetAddress = InetAddress.getByName(IP);
-            certInformation("https://" + inetAddress.getHostName());
+            for (int i = 0; i < IpList.size(); i++) {
+                InetAddress inetAddress = InetAddress.getByName(IpList.get(i));
+                certInformation("https://" + inetAddress.getHostName());
+            }
         } catch (Exception e) {
             return;
         }
@@ -76,6 +81,7 @@ public class CalcThread extends Thread{
             return;
         } else {
             Certificate[] certs = conn.getServerCertificates();
+            System.out.println("I am here!!!!");
             Path toRes = Path.of(".\\toResult.txt");
             Path pathToFile = Path.of(".\\temp.txt");
             certificateScanning(pathToFile, certs);

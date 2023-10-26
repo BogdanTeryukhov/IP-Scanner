@@ -1,2 +1,3 @@
 DNSName: github.com
 DNSName: www.github.com
+DNSName: *.github.com
