@@ -27,9 +27,14 @@ public class CertificateInfo extends Thread{
 
 
     public static void addRoutes(Javalin app) {
+        app.get("/", ctx -> {
+            ctx.redirect("/ip-input.html");
+        });
+
         app.get("/result", ctx -> {
             ctx.result("Response List: \n" + Files.readString(pathToCheck));
         });
+        
 
         app.post("/ip-input", ctx -> {
             ipMap.put(ctx.formParam("ip"), Integer.valueOf(Objects.requireNonNull(ctx.formParam("threads"))));
@@ -84,9 +89,9 @@ public class CertificateInfo extends Thread{
     }
 
     public static void main(String[] args){
-        Javalin app = Javalin.create(config -> {
-            config.staticFiles.add("/html", Location.CLASSPATH);
-        }).start(8081);
+        Javalin app = Javalin.create(javalinConfig ->
+                javalinConfig.addStaticFiles("/html", Location.CLASSPATH)
+        ).start(8081);
         addRoutes(app);
     }
 }
