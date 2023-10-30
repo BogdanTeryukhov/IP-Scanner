@@ -81,7 +81,6 @@ public class CalcThread extends Thread{
             return;
         } else {
             Certificate[] certs = conn.getServerCertificates();
-            System.out.println("I am here!!!!");
             Path toRes = Path.of(".\\toResult.txt");
             Path pathToFile = Path.of(".\\temp.txt");
             certificateScanning(pathToFile, certs);
