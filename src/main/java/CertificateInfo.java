@@ -34,7 +34,7 @@ public class CertificateInfo extends Thread{
         app.get("/result", ctx -> {
             ctx.result("Response List: \n" + Files.readString(pathToCheck));
         });
-        
+
 
         app.post("/ip-input", ctx -> {
             ipMap.put(ctx.formParam("ip"), Integer.valueOf(Objects.requireNonNull(ctx.formParam("threads"))));
